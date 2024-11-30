@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html css javascript
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me jagadeeshjagan419@gmail.com
-- 😄 Pronouns: Mr. Jagadeesg
+- 😄 Pronouns: Mr. Jagadeesh
 - ⚡ Fun fact: I'm creting this as a beginner
 
 <!---
